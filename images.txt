@@ -1,2 +1,1 @@
-
-docker.io/traefik:v3.0
+quay.m.daocloud.io/external_storage/nfs-client-provisioner:latest
