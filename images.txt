@@ -1,2 +1,2 @@
 
-jasonyin2020/oldboyedu-games:v0.1
+docker.io/traefik:v3.0.
