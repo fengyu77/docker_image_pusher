@@ -1,1 +1,1 @@
-filebeat:8.12
+nginx:latest
