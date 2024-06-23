@@ -1,1 +1,1 @@
-elastic/filebeat:7.10.2
+kubesphere/ks-installer:v3.3.2
