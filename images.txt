@@ -1,4 +1,4 @@
 
-public.ecr.aws/docker/library/redis:7.0.15-alpine
+kubesphere/openelb-speaker:master
 
 
