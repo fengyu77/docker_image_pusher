@@ -1,3 +1,4 @@
 
-registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl:v1.22.0
 
+
+docker.io/bitnami/etcd:3.5.4-debian-11-r14
