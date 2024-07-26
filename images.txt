@@ -1,5 +1,4 @@
 
 
-
-docker.io/dweizhao/frontend:latest
-docker.io/dweizhao/backend:latest
+dweizhao/frontend:latest
+dweizhao/backend:latest
