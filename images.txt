@@ -1,4 +1,1 @@
-
-
-dweizhao/frontend:latest
-dweizhao/backend:latest
+mysql：5.7.2
