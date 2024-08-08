@@ -1,2 +1,1 @@
-apache/apisix-ingress-controller:dev
-apache/apisix:3.2.2-centos
+registry.cn-hangzhou.aliyuncs.com/k8s_study_rfb/etcd:3.4.24-x86
