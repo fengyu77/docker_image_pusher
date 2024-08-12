@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/k8s_study_rfb/etcd:3.4.24-x86
+busybox:latest
