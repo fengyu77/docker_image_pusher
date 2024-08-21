@@ -1,1 +1,1 @@
-docker.elastic.co/kibana/kibana:7.17.7
+docker.io/redis:6.2
