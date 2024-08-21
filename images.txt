@@ -1,2 +1,1 @@
-
-nacos/nacos-server:1.4.2
+openzipkin/zipkin
