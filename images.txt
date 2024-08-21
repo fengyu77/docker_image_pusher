@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch:7.17.7
+elasticsearch:7.17.17
