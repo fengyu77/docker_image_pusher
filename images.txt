@@ -1,1 +1,1 @@
-openzipkin/zipkin
+bladex/sentinel-dashboard:latest
