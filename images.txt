@@ -1,1 +1,1 @@
-busybox:latest
+docker.io/elasticsearch:7.17.7
