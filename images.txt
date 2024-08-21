@@ -1,1 +1,1 @@
-elasticsearch:7.17.7
+docker.m.daocloud.io/elasticsearch:7.17.7
