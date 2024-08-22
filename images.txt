@@ -1,1 +1,1 @@
-apache/apisix-dashboard
+rocketmq-dashboard
