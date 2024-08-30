@@ -1,2 +1,1 @@
-postgres:14.2
-sonarqube
+jenkins/jenkins:2.392-jdk11
