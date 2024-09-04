@@ -1,2 +1,2 @@
 
-registry.cn-shenzhen.aliyuncs.com/jbjb/csi:xtrabackup-1.0
+eclipse-temurin:8-jre
