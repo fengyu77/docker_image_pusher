@@ -1,1 +1,2 @@
-gcr.io/google-samples/xtrabackup:1.0
+
+registry.cn-shenzhen.aliyuncs.com/jbjb/csi:xtrabackup-1.0
