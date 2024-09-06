@@ -1,1 +1,3 @@
-sonatype/nexus3
+docker.io/bitnami/postgresql:11.7.0-debian-10-r26
+sonarqube:8.9-community
+busybox:1.31
