@@ -1,3 +1,8 @@
-elasticsearch:8.17.0
-kibana:8.17.0
-logstash:8.17.0
+
+redis:7.0-bullseye  
+postgres:16.3-bullseye
+jumpserver/core:v4.10.1-ce
+jumpserver/koko:v4.10.1-ce
+jumpserver/lion:v4.10.1-ce
+jumpserver/chen:v4.10.1-ce
+jumpserver/web:v4.10.1-ce
