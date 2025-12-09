@@ -1,2 +1,2 @@
-linux/arm64 docker.io/apache/skywalking-oap:10.2.0
+arm64v8/apache/skywalking-oap:10.2.0 
 
