@@ -1,2 +1,1 @@
-docker.io/arm64v8/apache/skywalking-oap:10.2.0 
-
+apache/skywalking-oap-server:10.1.0 --platform linux/arm64
