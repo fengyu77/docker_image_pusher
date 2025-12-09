@@ -1,2 +1,2 @@
---platform linux/arm64 apache/skywalking-oap:10.2.0
+linux/arm64 apache/skywalking-oap:10.2.0
 
